@@ -5,4 +5,5 @@ plugins:
 
 # pages site settings
 title: "Jaisan Avery - CRCP 3320"
+description: "Homepage for all of my Emergent Web Development projects"
 show_downloads: true
