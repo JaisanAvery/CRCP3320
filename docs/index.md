@@ -2,5 +2,5 @@
 
 Hello, World!
 
-[Confetti] (./confetti/index.html)
-[Confetti] (./confetti/sketch.html)
+[Confetti](./confetti/index.html)
+[Confetti Sketch](./confetti/sketch.html)
